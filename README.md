@@ -1,5 +1,5 @@
-### dotfiles
+# dotfiles
 Various configs
 
-#.vimrc
+###.vimrc
 mv .vimrc ~/.vimrc
